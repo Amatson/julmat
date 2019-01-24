@@ -1,4 +1,5 @@
 # Site wide configuration
+# Comment for git force push because used wrong git settings...
 
 title: "JulMat2020"
 description: "JulMat menee naimisiin! #olijoaikakin"
@@ -22,7 +23,7 @@ gems:
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
-baseurl: 
+baseurl:
 
 # Site owner
 owner:
