@@ -67,6 +67,16 @@ Sivuthan eivät ole mitään ilman kivaa osoitetta. Onkin enää vuorossa julmat
 
 Tai no, toki voitte kysyä, älkää pahastuko jos suosittelen jotain oikeasti pätevää palveluntarjoajaa, kuten [Domainhotelli](https://www.domainhotelli.fi/) tai [Louhi](https://www.louhi.fi/)
 
+## Ja sitten vielä automaatio
+
+Githubin alla sivut toimivat kivasti, mutta yksi pieni puutos osui kohdalle varhaisessa vaiheessa. Jekyll:n avulla julkaistut blogipostaukset tulevat näkyviin ainoastaan kun uusi sivuston versio työnnetään githubiin ja julkaisun päivämäärä on nykyinen päivämäärä tai vanhempi. Eli jos haluaa julkaista jollain tietyllä päivämäärällä upean postauksen, joutuisi joko julkaisemaan sen heti kirjoittamisen jälkeen liian aikaisin asettamalla aikaisemman päivämäärän, tai sitten päivystämään oikeaan kellonaikaan ja työntämään muutokset githubiin kun haluaa bloginsa päivitettäväksi. Automaatialan teekkarille moinen tuntuu barbaarimaiselta. Siis google käteen ja menoksi. Hyvin pian oikea kombinaatio sopivia työkaluja oli kädessä.
+
+Ensimmäisenä, [Netlify](https://www.netlify.com/), joka mahdollistaa sekä sivujen DNS-hallinnan (eli sen mitä vistintävirasto vaatii, että sivun osoite on oikeasti jossain päin internetin palvelimia tallessa) että automaattisen julkaisun. Netlifyn kanssa sivut käytännössä siirtyvät pois Githubin alaisuudesta. Mitä Netlify käytännössä tekee, on githubista sivujen lähdekoodin lukeminen ja julkaisu omalla domainillaan. Sen lisäksi oman domainin pitäminen helpottuu Netlifyn tarjoamien palveluiden avulla.
+
+Ja sitten se todellinen automaatio. [Zapier](https://zapier.com/).
+Zapierin avulla voi luoda automaattisesti ajastettuja tehtäviä useiden palveluiden välille. Zapier tukee lukuisia erilaisia ratkaisuja, ja yksi niistä sattui olemaan Netlifyn ajastettu julkaisu. Helpoilla vaiheilla Zapier käy tökkäämässä kerran päivässä Netlifyn julkaisunappia, jolloin Netlify hakee tuoreimman sivustosisällön Githubista ja julkaisee nettisivut mahdollisesti uusien blogipostausten kera.
+
+
 ## JA SIINÄPÄ SE!
 
 Hauskaahan se on jos on aikaa ja jaksaa nähdä vaivaa, mutta loppujen lopuksi ei vaivaakaan tarvitse suunnattomasti nähdä. Laittakaahan nettisivuja pystyyn, se on tänä päivänä helpompaa kuin koskaan!
