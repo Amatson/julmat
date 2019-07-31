@@ -8,3 +8,4 @@ title: "Infoa häätilaisuudesta"
 Tai viimeistään kun kutsut lähtee. Sitten ainakin on suunnittelut edenneet!
 
 Hääpäivä: 22.2.2020
+Juhlatila: Villa Åkerblom, Ville Vallgrenin tie 1
