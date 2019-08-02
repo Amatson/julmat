@@ -4,7 +4,7 @@ title: "Juhlatilan haku"
 date: 2019-08-02
 excerpt_separator: <!--more-->
 image:
-  teaser: teaser_heart_code.jpg
+  teaser: teaser_juhlatila.jpg
 ---
 
 Juhlatila, eli missä vieraat kokoontuvat vihkiseremonian jälkeen, lienee häiden isoin kysymys.
