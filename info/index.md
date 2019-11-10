@@ -3,6 +3,10 @@ layout: archive
 permalink: /info
 title: "Infoa häätilaisuudesta"
 ---
+**Ilmoittautuminen**
+ Ilmoittautuminen on auki [ilmoittautumis-osiossa!]('{{ site.baseurl }}/ilmo')
+
+Ilmoitathan tulostasi tai mahdollisesta esteestä 19.1. mennessä osoitteessa julmat.fi/ilmo
 
 **Hääpäivä:** 22.2.2020, vihkitilaisuus klo 14:00 alkaen
 
@@ -14,8 +18,5 @@ title: "Infoa häätilaisuudesta"
 Varausohjeet:
 * _Aktivoitu varaustunnus antaa vieraille -25% alennuksen päivän julkisesta joustavasta huonehinnasta saatavuuden mukaan ja tuo joustava huonehinta muuttuu varaustilanteen mukaan. Varaustunnus on voimassa majoitusajalle 21.-23.2.2020._<br>
 * _Tunnuksen lisäksi varaajan tulee ilmoittaa  tulo- ja lähtöpäivä, majoittujan nimi, puhelinnumero, sähköpostiosoite sekä luottokortin numero ja viimeinen voimassaolopäivä varauksen takaamiseksi. Vahvistettu varaus on mahdollista peruuttaa kuluitta viimeistään 72 tuntia ennen saapumista._
-
-**Ilmoittautuminen**
- Ilmoittautuminen on auki [ilmoittautumis-osiossa!]({{ site.baseurl }})
 
 **Lisää infoa suattanee tulla, pysykää kanavalla!**
