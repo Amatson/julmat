@@ -4,13 +4,13 @@ permalink: /info
 title: "Infoa häätilaisuudesta"
 ---
 **Ilmoittautuminen**
- Ilmoittautuminen on nyt auki [ilmoittautumis-osiossa!]({{ site.baseurl }}/ilmo)
+ Ilmoittautuminen on nyt auki <u>_[ilmoittautumis-osiossa!]({{ site.baseurl }}/ilmo)_</u>
 
-Ilmoitathan tulostasi tai mahdollisesta esteestä 19.1. mennessä osoitteessa julmat.fi/ilmo
+Ilmoitathan tulostasi tai mahdollisesta esteestä <u>19.1. mennessä.</u>
 
 **Hääpäivä:** 22.2.2020, vihkitilaisuus klo 14:00 alkaen
 
-**Kirkko:** Leppävaaran kirkko, [Veräjäkallionkatu 2](https://goo.gl/maps/mrScUGEoaUZrqQ8v6)
+**Vihkiminen eli kirkko:** Leppävaaran kirkko, [Veräjäkallionkatu 2](https://goo.gl/maps/mrScUGEoaUZrqQ8v6)
 
 **Juhlatila:** Villa Åkerblom, [Ville Vallgrenin tie 1](https://goo.gl/maps/bdW2EhMo7ioVnz9v5)
 
@@ -18,5 +18,17 @@ Ilmoitathan tulostasi tai mahdollisesta esteestä 19.1. mennessä osoitteessa ju
 Varausohjeet:
 * _Aktivoitu varaustunnus antaa vieraille -25% alennuksen päivän julkisesta joustavasta huonehinnasta saatavuuden mukaan ja tuo joustava huonehinta muuttuu varaustilanteen mukaan. Varaustunnus on voimassa majoitusajalle 21.-23.2.2020._<br>
 * _Tunnuksen lisäksi varaajan tulee ilmoittaa  tulo- ja lähtöpäivä, majoittujan nimi, puhelinnumero, sähköpostiosoite sekä luottokortin numero ja viimeinen voimassaolopäivä varauksen takaamiseksi. Vahvistettu varaus on mahdollista peruuttaa kuluitta viimeistään 72 tuntia ennen saapumista._
+
+**Pukukoodi**: Juhlava pukeutuminen
+
+**Muistaminen** Meille tärkeintä on, että tulette juhlimaan kanssamme tärkeää päiväämme. Halutessasi voit muistaa meitä kartuttamalla häämatkakassaamme:<br>
+FI86 3939 0032 3907 59 / Matti Ojala tai Julia Gustafsson
+
+**Yhteyshenkilöt**
+* Bestman: Heikki Nurmi, 050 3460120
+* Seremonia-kaaso: Polina Hartikainen, 040 5640383
+* Matti: 050 4961581
+* Julia: 040 7067657
+
 
 **Lisää infoa suattanee tulla, pysykää kanavalla!**
