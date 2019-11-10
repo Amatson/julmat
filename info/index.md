@@ -4,7 +4,7 @@ permalink: /info
 title: "Infoa häätilaisuudesta"
 ---
 **Ilmoittautuminen**
- Ilmoittautuminen on nyt auki <u><i>[ilmoittautumis-osiossa!]({{ site.baseurl }}/ilmo)</i></u>
+ Ilmoittautuminen on nyt auki <u><i><a href="{{ site.baseurl }}/ilmo">ilmoittautumis-osiossa!</a></i></u>
 
 Ilmoitathan tulostasi tai mahdollisesta esteestä <u>19.1. mennessä.</u>
 
