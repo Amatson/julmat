@@ -4,7 +4,7 @@ permalink: /info
 title: "Infoa häätilaisuudesta"
 ---
 **Ilmoittautuminen**
- Ilmoittautuminen on auki [ilmoittautumis-osiossa!]('{{ site.baseurl }}/ilmo')
+ Ilmoittautuminen on nyt auki [ilmoittautumis-osiossa!]({{ site.baseurl }}/ilmo)
 
 Ilmoitathan tulostasi tai mahdollisesta esteestä 19.1. mennessä osoitteessa julmat.fi/ilmo
 
