@@ -21,6 +21,8 @@ Varausohjeet:
 
 **Pukukoodi**: Juhlava pukeutuminen
 
+**Lapset**: Pienokaiset ovat tervetulleita häihin, ilmoitathan heidät muiden saapuvien tapaan. Toivomme kuitenkin, että vihkiminen tapahtuu hääpariin keskittyen, joten varauduthan tähän kirkon istumapaikkaasi tai rakkaan sumutorvesi päiväuniaikaa valitessa.^^
+
 **Muistaminen** Meille tärkeintä on, että tulette juhlimaan kanssamme tärkeää päiväämme. Halutessasi voit muistaa meitä kartuttamalla häämatkakassaamme:<br>
 FI86 3939 0032 3907 59 / Matti Ojala tai Julia Gustafsson
 
