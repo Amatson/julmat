@@ -8,6 +8,8 @@ on nyt auki <u><i><a href="{{ site.baseurl }}/ilmo">ilmoittautumis-osiossa!</a><
 
 Ilmoitathan tulostasi tai mahdollisesta esteestä <u>19.1. mennessä.</u>
 
+Mikäli haluat pitää häissä puheen tai muun esiintymisen, otathan yhteyttä bestmaniin tai seremonia-kaasoon jotta saamme mieluisesi ohjelmanumeron hääjuhlan aikatauluun. Yhteystiedot sivun alaosassa.
+
 **Hääpäivä:** 22.2.2020, vihkitilaisuus klo 14:00 alkaen
 
 **Vihkiminen eli kirkko:** Leppävaaran kirkko, [Veräjäkallionkatu 2](https://goo.gl/maps/mrScUGEoaUZrqQ8v6)
