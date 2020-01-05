@@ -6,7 +6,7 @@ title: "Infoa häätilaisuudesta"
 **Ilmoittautuminen**
 on nyt auki <u><i><a href="{{ site.baseurl }}/ilmo">ilmoittautumis-osiossa!</a></i></u>
 
-Ilmoitathan tulostasi tai mahdollisesta esteestä <u>19.1. mennessä.</u>
+Ilmoitathan tulostasi tai mahdollisesta esteestä <u>1.2. mennessä.</u>
 
 Mikäli haluat pitää häissä puheen tai muun esiintymisen, otathan yhteyttä bestmaniin tai seremonia-kaasoon jotta saamme mieluisesi ohjelmanumeron hääjuhlan aikatauluun. Yhteystiedot sivun alaosassa.
 
