@@ -31,7 +31,6 @@ Juomat olimme kaikeksi onneksi ymmärtäneet tilata etukäteen, joten pääsimme
 
 ![Janoinen morsian](/images/janoinenmorsian.jpg "Janoinen morsian")
 
-
 Sitten vain auto täyteen hölskyviä, ruokailemaan, vielä yksi viinikauppa jälkiruokaviiniä metsästämään, ja takaisin laivamatkalle, josta sitten vielä taxfreen oluthyllyn läpi ahtamaan autoon vihoviimeiset lavat.
 
 ![Juomia](/images/tetris.jpg "Juomia")
@@ -49,6 +48,5 @@ Häihin on enää alle kuukausi, tätä kirjoittaessa noin kolme viikkoa. Työt�
 Yritämme molemmat kuitenkin lohduttautua ajatuksella, että tärkeimmät asiat on nyt hoidettu, eli vieraat on kutsuttu, häissä on ruokaa ja juomaa, kirkko pappeineen ja juhlapaikka on varattu, ja sormuksetkin saataneen ajoissa paikalle. Myös puvut ovat joko odottamassa vuokrausta tai ottamassa vastaan viimeisiä neulanpistoksia. Kaikki loppu on plussaa, eikä ketään jälkikäteen häiritse pienet puutteet jos ei meitäkään.
 
 Joten, nyt on aika päättää blogipostaus suureen paljastukseen: Häämatkakohteen paljastukseen! Jotta vieraat eivät tue sikaa säkissä ja mahdollisesti auta meitä taloudellisesti tietämättä mihin himskattiin ollaan häämatkabudjetti hassaamassa, niin tässä esimakua matkakohteestamme, Malediivien Riu atollilta! Tätä odotellessa^^
-
 
 ![Häämatkakohde](/images/hotel-riu-atoll.jpg "Aurinkorannoille kalajoen suuntaan!")
