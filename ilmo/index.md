@@ -4,7 +4,7 @@ permalink: /ilmo
 title: "Vieraiden ilmoittautuminen"
 ---
 
-Ilmoittautuminen on auki! Ilmoittauduthan 19.1. mennessä.
+Ilmoittautuminen on auki! Ilmoittauduthan 1.2. mennessä.
 
 Jos allaolevan lomakkeen täyttö tuottaa hankaluuksia (esimerkiksi kännykällä täytettäessä), täytä sen sijaan <u><i><a href="https://forms.gle/QoWSTzyL7tSm6HeJ6">Google lomake</a></i></u>.
 
