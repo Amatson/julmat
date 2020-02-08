@@ -12,10 +12,10 @@ Ensiksi, mitä suurimmat kiitokset kun olet mukana toteuttamassa häitä kanssam
 **Tarvikkeita tarvitaan!**
 
 * Säädettäviä, hauduttavia teenkeittimiä (2kpl)
-  * [ ] 1
-  * [ ] 2
+  * [x] 1
+  * [x] 2
   * [x] kolmas keitin omasta takaa
-* [ ] Autoja vieraiden kuljettamiseen (x kpl)
+* [1] Autoja vieraiden kuljettamiseen (x kpl)
 
 
 **Nakkilistaa!**
@@ -24,7 +24,7 @@ Perjantai:
 * Koristelijoita (2-3kpl)
 
 Lauantai:
-* Koristelijoita
+* Koristelijoita (2 tarvittaessa)
 * Kuskeja
 * Tarjoilijoita
 * Loppukuskeja
