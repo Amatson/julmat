@@ -3,12 +3,6 @@ layout: archive
 permalink: /info
 title: "Infoa häätilaisuudesta"
 ---
-**Ilmoittautuminen**
-on nyt auki <u><i><a href="{{ site.baseurl }}/ilmo">ilmoittautumis-osiossa!</a></i></u>
-
-Ilmoitathan tulostasi tai mahdollisesta esteestä <u>1.2. mennessä.</u>
-
-Mikäli haluat pitää häissä puheen tai muun esiintymisen, otathan yhteyttä bestmaniin tai seremonia-kaasoon jotta saamme mieluisesi ohjelmanumeron hääjuhlan aikatauluun. Yhteystiedot sivun alaosassa.
 
 **Hääpäivä:** 22.2.2020, vihkitilaisuus klo 14:00 alkaen
 
@@ -27,6 +21,13 @@ Varausohjeet:
 
 **Muistaminen** Meille tärkeintä on, että tulette juhlimaan kanssamme tärkeää päiväämme. Halutessasi voit muistaa meitä kartuttamalla häämatkakassaamme:<br>
 FI86 3939 0032 3907 59 / Matti Ojala tai Julia Gustafsson
+
+**Ilmoittautuminen**
+on nyt auki <u><i><a href="{{ site.baseurl }}/ilmo">ilmoittautumis-osiossa!</a></i></u>
+
+Ilmoitathan tulostasi tai mahdollisesta esteestä <u>1.2. mennessä.</u>
+
+Mikäli haluat pitää häissä puheen tai muun esiintymisen, otathan yhteyttä bestmaniin tai seremonia-kaasoon jotta saamme mieluisesi ohjelmanumeron hääjuhlan aikatauluun. Yhteystiedot sivun alaosassa.
 
 **Yhteyshenkilöt**
 * Bestman: Heikki Nurmi, 050 3460120
