@@ -31,10 +31,10 @@ Aamupäivä          | Koristeluiden viimeistely             | Juhlatila
 ->                 | Maljan nosto                          |
 16:30              | Ruokailu alkaa                        |
 -> ruokaa          | Tutustumisleikki                      |
-17:30              | Puheet                                |
-18:00              | Tupsun sitominen                      |
-18:30              | Kakun leikkuu                         |
-19:00              | Kenkäleikki                           |
+17:45              | Puheet                                |
+->                 | Tupsun sitominen                      |
+19:00              | Kakun leikkuu                         |
+19:30              | Kenkäleikki                           |
 18-20:ish          | Kissan hoitokeikka                    | Glo Hotel Leppävaara
 20:30              | Häävalssit                            |
 21:00              | Kimpun ja sukkanauhan heitto          |
