@@ -44,7 +44,7 @@ GoPro mukaan, sovi kuvaaja kirkossa
 joustavasti        | kuvaustauko tms, baari auki           |
 19:00              | Kakun leikkuu ja jälkiruokailu        |
 19:30              | Kenkäleikki                           |
-18-20:ish          | Kissan hoitokeikka                    | Glo Hotel Leppävaara
+18-20:ish          | Kissan hoitokeikka, yöpalan haku!     | Glo Hotel, Lidl (Sello)
 20:00ish           | tanssilattian raivaus                 |
 20:30              | Häävalssit                            |
 21:00              | Kimpun ja sukkanauhan heitto          |
