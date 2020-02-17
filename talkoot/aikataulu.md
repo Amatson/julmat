@@ -13,6 +13,7 @@ Jos luet tätä sivua, muttet tiedä miksi, älä lue pidemmälle. Tämä sivu o
 10-12     | kissan vienti hotelliin   | Glo hotel
 12:ish    | Koristelua | Åkerblom = Juhlatila
 14:30-17  | Julian koeasiat         | Leppävaara
+\\/        | Teepannun haku          | Servinkuja 6 C 18
 17:ish    | Alkoholien haku | Louhentie 13 D (28)
 17->      | Auton pesu      | ???
 20:ish    | Koristelut valmiit | Juhlatila
