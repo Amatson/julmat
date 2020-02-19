@@ -55,6 +55,7 @@ Aika               | Mitä                                  | Kuka etenkin | Huo
 11:30              | Lähtö studiolle                       | Hotelli
 12:00              | Studiokuvaukset, ellu mukana          | Iso Roobertinkatu 35-37
 13:00              | Kuvaus done, lähtö kirkolle           | studio
+13:20 tms.         | Bestman hakee loput kukat?            | Leppävaaran kukka, Alberganesplanadi 11
 13:30              | Pari kirkolla                         |
 14:00              | Vihkiseremonia alkaa                  | Leppävaaran kirkko
 14:30              | Ryhmäkuvat                            | Kirkon piha
