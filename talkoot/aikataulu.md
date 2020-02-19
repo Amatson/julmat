@@ -8,22 +8,47 @@ Jos luet tätä sivua, muttet tiedä miksi, älä lue pidemmälle. Tämä sivu o
 <hr>
 
 
-**PERJANTAI 21.2.**  |   |   |
+**PERJANTAI 21.2.**  | Yhteiset asiat  |   |
 ------------- |:-------------:| -----:|
 10-12     | kissan vienti hotelliin   | Glo hotel
 12:ish    | Koristelua | Åkerblom = Juhlatila
 14:30-17  | Julian koeasiat         | Leppävaara
-\\/        | Teepannun haku          | Servinkuja 6 C 18
-17:ish    | Alkoholien haku | Louhentie 13 D (28)
+17:00     | Teepannun haku          | Servinkuja 6 C 18
+17:15     | Kakkukoristeen haku     | Tietäjäntie 10 B 50
+17:30     | Alkoholien haku | Louhentie 13 D (28)
 17->      | Auton pesu      | ???
 20:ish    | Koristelut valmiit | Juhlatila
 
-TODO:
-Esteettömyystodistus bestmanille
-GoPro mukaan, sovi kuvaaja kirkossa
+TODO: Tarulle kuitti yöpaloista!
 
-**LAUANTAI 21.2.**  |   |   |
+**LAUANTAI 22.2.**  | Talkoolaisten lista   |   |   |
+------------- |:-------------:| -----:| -----:|
+Aika               | Mitä                                  | Kuka etenkin | Huomioita
+14:00 tms          | Jääpallojen haku                      | Taru&Carlos |
+14:40ish           | Vieraiden kyyditys kirkolta           | Taru! |
+14:45              | Boolin valmistus                      | |
+15-15:30           | Vieraat saapuvat, boolin tarjoilu     | | Boolin ohjeet alempana
+15:50              | Alkumaljan valmistus                  | | Alkumaljan ohjeet alempana
+16-16:30           | Onnittelujono, alkumaljan tarjoillu   | |
+->                 | Pääruokien esillelaitto               | |
+16:30              | Ruokailu alkaa, viinikaadot           | | Aloitetaan tarjoilu viimeisestä pöydästä joka saa ruokaa ensimmäisen pöydänn hakiessa, tämän jälkeen ruokaa hakevassa järjestyksessä
+-> ruokaa          | Vesikannujen täyttöä                  |
+18:00              | Baari auki, juomat jäihin ja esiin    | | muistetaan täydentää juomia sitä mukaa kun kuluu
+18-18:30           | Astioiden vienti             |
+18:45              | Jälkiruokatarjoilujen esillelaitto   | | Avecit, teevedet, kahvitarpeet, kakku
+19:00              | Teeveden ylläpito                     | | Teevesiä kolmea eri lämpötilaa
+19:ish             | Kissan hoitokeikka, yöpalan haku!     | Taru | Tätä ennen Esa-enolta tai Leena-vaimolta huonekortin lainaus!
+20:00ish           | tanssilattian raivaus                 | | Kohteliaasti kun vieraat ovat syöneet
+20:30              | Häävalssit, soittolista!              | Jan | Muista, ristihäivytys pois!
+21:30              | Bilelista soimaan              | Jan | Muista, ristihäivytys päälle!
+21:45              | Yöpalan esillelaitto                  |
+22:00 ->           | Yöpalan täydennys tarvittaessa                               |
+21-01              | Vieraiden kuljetus Leppävaaraan tarvittaessa  | Taru&Carlos | Tsekkailkaa kyytilistaa ja jos joku näyttää ettei pääse pois kun tarvitsee niin napatkaa heittäen
+00:30              | Juhlat loppuu, siivous                |
+
+**LAUANTAI 22.2.**  | Hääparin ja bestmanin/kaasojen lista   |   |
 ------------- |:-------------:| -----:|
+8:00               | Sulhasen herätys? Getting Ready -kuvaus  | Louhentie 13 d 28
 10:15              | Lähtö Tapiolasta, Noppa               | auto
 10:40              | Kukkien nouto                         | Leppävaaran kukka, Alberganesplanadi 11
 11:00              | Julia hotellin aulassa, First look-kuvat  | Glo Hotel Leppävaara
@@ -55,9 +80,16 @@ joustavasti        | tauko?                                |
 00:30              | Juhlat loppuu, siivous                |
 
 
+**Sunnuntai 23.2.**  | Yhteiset asiat   |   |
+------------- |:-------------:| -----:|
+12:00         | Juhlatilan loppusiivous   | Peräkärryn täyttö, lattioiden ajaminen, viimeistetely
+->            | Teepannun palautus        | Servinkuja 6 C 18 (@SuperTuff)
 
 
-Vihkiminen:
+## Muistilistoja:
+
+
+#### Vihkiminen:
 Esteettömyystodistus Bestmanin kautta papille
 Morsiamen suku vasemmalle (ovilta), sulhasen oikealle
 Bestmanille sormukset
@@ -69,26 +101,55 @@ Vihkitilaisuudessa jaettavaan printtiin:
 Saapumisohjeet juhlapaikalle
 Vihkitilaisuuden sisältö (Vihkimen, kunniakuja, yhteiskuvat, yhteiskyydit juhliin)
 
-Juhlapaikalla:
+#### Juhlapaikalla:
 Bestman/kaaso ohjeistavat vieraita ennen parin saapumista (lahjapöytä,wc,jne,yms,sms,dna)
 
-Alkumalja-asia: vesilaseista tms vihreä tervetulojuoma (holillinen ja holiton)
-kaadetaan valmiiksi laseihin vieraiden saapuessa
-Onnittelujonon jälkeen skumppalasitarjoilu violetti juoma (skumppa+väri)
+#### Booli:
+Vihreä tervetulojuoma booliastiasta glögi-tms laseissa tarjoiltuna, kaatakaa ja tarjotkaa vieraille, 1-2 dl per henki, lisää saa hakea mutta kohtuudella jotta kaikille riittää
 
+Holillinen:
+* Sourz-pullo
+* Spiritus Fortis -pullon loput
+* 2-3 pulloa omenalimonadia
+* 1-2 pulloa sitruunakivennäisvettä
+ - Lantrinkeja maun mukaan sopivassa suhteessa
+* Jäädytetyt sitruuna/lime-viipaleet
+
+Holiton
+* Päärynä-mehukatti
+* Sitruuna-kivennäisvesi
+* Yhteensä noin 3-4 litraa valmista juomaa
+
+#### Alkumalja:  
+Alkumalja skumppalaseihin valmiiksi kaadettuna, tarjotaan tarjottimelta onnittelujonosta poistuville.
+
+Holillinen:
+* Skumppaa n. 1,5dl
+* Violettia elintarvikeväriä noin 10-20 pisaraa, kunnes väri on selvästi violetti
+
+Holiton:
+* Pommac n. 1,5dl
+* Mehutiivistettä
+* Tarvittaessa violettia elintarvikeväriä
+
+
+#### Juhlien kulkuohjeita
 Onnittelujono: vanhemmat ekana, jää vastaanottamaan onnitteluja
-
 Morsiamen isä toivottaa väen tervetulleeksi, maljan nosto
-
 Bestman: käytännön asiat, ketkä vetovastuussa -> ohjeistaa ruokailun
 
-Viinit: kaadetaan vieraille ruokailun alettua
+Viinit: kaadetaan vieraille ruokailun alettua. Aloitetaan viinikaato pöydästä, joka hakee viimeisenä ruokaa. Kun ensimmäinen ruokaa hakenut pöytä on palannut hakumatkalta, kaadetaan heille viini, jonka jälkeen seurataan pöytäjärjestystä. Näin viimeinen pöytä pääsee nauttimaann viinistä odotellessa ja viinitarjoilu voidaan aloittaa jouhevasti.
 
 Tupsun sitominen: bestman kuuluttaa, Juho alustaa perinteen ja solmii
 
-Tansseihin valmistautuminen: pöytien raivaus
+Tansseihin valmistautuminen: pöytien raivaus, kun vieraat ovat syöneet. Pyydetään kohteliaasti siirtymään "kabinetin" puolelle mahdollisine juomineen, siirretään penkit jonnekin sivuun istuttavaksi.
 
-Tanssit: häätanssi (pari), vanhempain valssi (puolivälissä kaikki)
+Musiikin ajaminen: MediaMonkey-ohjelma.
+Valsseihin lista "Häävalssit", Toista-valikosta Ristihäivytys -> POIS
+Iltabileisiin lista "Hääbileet", Ristihäivytys -> PÄÄLLE
+
+
+Tanssit: häätanssi (pari), vanhempain valssi (puolivälissä kaikki), loput vapaasti
 
 
 
