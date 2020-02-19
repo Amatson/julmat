@@ -21,6 +21,9 @@ Jos luet tätä sivua, muttet tiedä miksi, älä lue pidemmälle. Tämä sivu o
 
 TODO: Tarulle kuitti yöpaloista!
 
+TALKOILIJAT HUOM!
+Teille on varattu lauantaille ruokaa (buffet). Jos koette kaipaavanne lisävälipaloja niin ottakaa evästä mukaan. 
+
 **LAUANTAI 22.2.**  | Talkoolaisten lista   |   |   |
 ------------- |:-------------:| -----:| -----:|
 Aika               | Mitä                                  | Kuka etenkin | Huomioita
