@@ -22,7 +22,7 @@ Jos luet tätä sivua, muttet tiedä miksi, älä lue pidemmälle. Tämä sivu o
 TODO: Tarulle kuitti yöpaloista!
 
 TALKOILIJAT HUOM!
-Teille on varattu lauantaille ruokaa (buffet). Jos koette kaipaavanne lisävälipaloja niin ottakaa evästä mukaan. 
+Teille on varattu lauantaille ruokaa (buffet). Jos koette kaipaavanne lisävälipaloja niin ottakaa evästä mukaan.
 
 **LAUANTAI 22.2.**  | Talkoolaisten lista   |   |   |
 ------------- |:-------------:| -----:| -----:|
@@ -62,7 +62,8 @@ Aika               | Mitä                                  | Kuka etenkin | Huo
 13:30              | Pari kirkolla                         |
 14:00              | Vihkiseremonia alkaa                  | Leppävaaran kirkko
 14:30              | Ryhmäkuvat                            | Kirkon piha
-14:30-16~          | Hääparin ulkokuvaus, ellu mukana      | Kirkon piha
+14:45              | Siirtyminen, Heikki ensimmäisenä, Polina Tarun kyydissä viimeisenä kirkolta   | Kirkon piha
+14:45-16~          | Hääparin ulkokuvaus, ellu mukana      | Kirkon piha
 15-15:30           | Vieraat saapuvat, alkumaljan tarjoilu | Juhlatila
 16:00              | Hääpari saapuu                        | Juhlatila
 16-16:30           | Onnittelujono                         | ^
@@ -120,7 +121,7 @@ Holillinen:
 * Jäädytetyt sitruuna/lime-viipaleet
 
 Holiton
-* Päärynä-mehukatti
+* Päärynä-mehukatti, maun mukaan, ei kokonaan!
 * Sitruuna-kivennäisvesi
 * Yhteensä noin 3-4 litraa valmista juomaa
 
