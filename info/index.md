@@ -4,6 +4,9 @@ permalink: /info
 title: "Infoa häätilaisuudesta"
 ---
 
+Päivitettyä viimehetken infoa on tarjolla blogipostauksesta:
+[julmat.fi/viimeistelyt/](https://julmat.fi/viimeistelyt/)
+
 **Hääpäivä:** 22.2.2020, vihkitilaisuus klo 14:00 alkaen
 
 **Vihkiminen eli kirkko:** Leppävaaran kirkko, [Veräjäkallionkatu 2](https://goo.gl/maps/mrScUGEoaUZrqQ8v6)
