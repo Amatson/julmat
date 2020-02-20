@@ -10,19 +10,31 @@ Jos luet tätä sivua, muttet tiedä miksi, älä lue pidemmälle. Tämä sivu o
 
 **PERJANTAI 21.2.**  | Yhteiset asiat  |   |
 ------------- |:-------------:| -----:|
-10-12     | kissan vienti hotelliin   | Glo hotel
-12:ish    | Koristelua | Åkerblom = Juhlatila
+11:00     | kissan vienti hotelliin   | Glo hotel
+11:00     | Vieraskirjan haku, Marja-serkku -> Polina | Kalasatama
+12:00     | Lähtö Leppävaarasta juhlatilaan
+12:15->   | Koristelua | Åkerblom = Juhlatila
 14:30-17  | Julian koeasiat         | Leppävaara
+14-16:00  | Hääkakun vastaanotto    | juhlatila
+15-16:00  | Auton pesu, 32€         | Itsehallintokuja 6, 02600 Espoo
 17:00     | Teepannun haku          | Servinkuja 6 C 18
-17:15     | Kakkukoristeen haku     | Tietäjäntie 10 B 50
+17:15     | Kakkukoristeen haku??   | Tietäjäntie 10 B 50
 17:30     | Alkoholien haku | Louhentie 13 D (28)
 17->      | Auton pesu      | ???
 20:ish    | Koristelut valmiit | Juhlatila
 
-TODO: Tarulle kuitti yöpaloista!
+Juhalapaikalla tarkistuslista:
+* Miten lattiapesuria ajetaan?
+* Missä kakkuparkki?
+* Miten allergiat/erityisruokavaliot on esillä/huomioitu?
+* Miten ovien sulkemisien ja avainten kanssa menetellään?
+* Haluaako keittiö sanoa jotain ruoista vieraille?
+
+TODO: Tarulle kuitti yöpaloista ja kylmälaukut!
 
 TALKOILIJAT HUOM!
 Teille on varattu lauantaille ruokaa (buffet). Jos koette kaipaavanne lisävälipaloja niin ottakaa evästä mukaan.
+Perjantaina saatetaan tilata pitsat tms ajoissa talkoilemaan tulleille. Myöhemmin saapuvien kannattaa varata jotain evästä jos pelkää nälän yllättävän.
 
 **LAUANTAI 22.2.**  | Talkoolaisten lista   |   |   |
 ------------- |:-------------:| -----:| -----:|
@@ -52,6 +64,7 @@ Aika               | Mitä                                  | Kuka etenkin | Huo
 **LAUANTAI 22.2.**  | Hääparin ja bestmanin/kaasojen lista   |   |
 ------------- |:-------------:| -----:|
 8:00               | Sulhasen herätys? Getting Ready -kuvaus  | Louhentie 13 d 28
+10:00              | Auton koristelu (bestman?)            |
 10:15              | Lähtö Tapiolasta, Noppa               | auto
 10:40              | Kukkien nouto                         | Leppävaaran kukka, Alberganesplanadi 11
 11:00              | Julia hotellin aulassa, First look-kuvat  | Glo Hotel Leppävaara
@@ -96,15 +109,25 @@ joustavasti        | tauko?                                |
 
 #### Vihkiminen:
 Esteettömyystodistus Bestmanin kautta papille
+Bestmanin kyytiin myös!!!!:
+* Tekolumi (heiteltäväksi)
+* Nenäliinat
+* SORMUKSET!
+
+Nenäliinat jaetaan kirkon/salin ovella vieraiden saapuessa!
 Morsiamen suku vasemmalle (ovilta), sulhasen oikealle
 Bestmanille sormukset
 Morsian antaa kimpun kaasolle alttarilla
 Kaaso antaa kimpun vihkimisen jälkeen
 Bestman ottaa raamatun pois käsistä
 
-Vihkitilaisuudessa jaettavaan printtiin:
-Saapumisohjeet juhlapaikalle
-Vihkitilaisuuden sisältö (Vihkimen, kunniakuja, yhteiskuvat, yhteiskyydit juhliin)
+Vihkitilaisuuden jälkeen, heti:
+* Tekolumen jakaminen
+* Kunniakujan organisointi
+* Ryhmäkuvan organisointi
+* Autokyytien järjestely
+ - Heikki ensimmäiseen autoon (auto täyteen)
+ - Polina viimeiseen autoon (Tarun auto)
 
 #### Juhlapaikalla:
 Bestman/kaaso ohjeistavat vieraita ennen parin saapumista (lahjapöytä,wc,jne,yms,sms,dna)
@@ -115,15 +138,17 @@ Vihreä tervetulojuoma booliastiasta glögi-tms laseissa tarjoiltuna, kaatakaa j
 Holillinen:
 * Sourz-pullo
 * Spiritus Fortis -pullon loput
-* 2-3 pulloa omenalimonadia
+* 2-3 pulloa päärynälimonadia
 * 1-2 pulloa sitruunakivennäisvettä
  - Lantrinkeja maun mukaan sopivassa suhteessa
 * Jäädytetyt sitruuna/lime-viipaleet
+* Mausteeksi sitruunamehua jos tarvitaan
 
 Holiton
 * Päärynä-mehukatti, maun mukaan, ei kokonaan!
 * Sitruuna-kivennäisvesi
 * Yhteensä noin 3-4 litraa valmista juomaa
+* Mausteeksi sitruunamehua jos tarvitaan
 
 #### Alkumalja:  
 Alkumalja skumppalaseihin valmiiksi kaadettuna, tarjotaan tarjottimelta onnittelujonosta poistuville.
@@ -133,9 +158,7 @@ Holillinen:
 * Violettia elintarvikeväriä noin 10-20 pisaraa, kunnes väri on selvästi violetti
 
 Holiton:
-* Pommac n. 1,5dl
-* Mehutiivistettä
-* Tarvittaessa violettia elintarvikeväriä
+* Violetti muumilimsa, n. 1,5dl
 
 
 #### Juhlien kulkuohjeita
