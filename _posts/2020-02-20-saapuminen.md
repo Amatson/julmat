@@ -4,7 +4,7 @@ title: "saapuminen"
 date: 2020-02-20
 excerpt_separator: <!--more-->
 image:
-  teaser: teaser_maps.jpg
+  teaser: teaser_maps.png
 ---
 
 Luontoa (ja aikaa) säästääksemme emme printtaa poisheitettävää paperia informointiin. Tässä siis saapumisohjeet Juhliin!
