@@ -10,6 +10,8 @@ title: ""
 }
 </style>
 
+<b>HUOM! Sivusto muuttaa osoitteeseen julmat.haukilintu.fi </b>
+
 <div class="page-lead bgimg">
 	<div class="wrap page-lead-content ">
 		<h1>JulMat menee naimisiin</h1>
